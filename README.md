@@ -17,12 +17,12 @@
           - Accuracy: 0.883806049823761
     - Logistic Model
       - Used Hyperparameter Tuning/ Grid Search to tune the models parameters to try and get the highest accuracy 
-        - Best Parameter: `{'C': 10, 'penalty': 'l1'}`
-        - Best Score: `0.8793839585239402`
+        - Best Parameter: {'C': 10, 'penalty': 'l1'}
+        - Best Score: 0.8793839585239402
         
     - Support Vector Machine 
       - Used Hyperparameter Tuning/ Grid Search to tune the models parameters to try and get the highest accuracy 
-        - Best Parameter: `{'C': 10, 'gamma': 0.0001}`
+        - Best Parameter: {'C': 10, 'gamma': 0.0001}
         - Best Score: 0.8709972552607502
         
     
